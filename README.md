@@ -1,7 +1,12 @@
-## Hi there 👋 
-I'm Soughtout Olasupo-Ojo
+<!-- GREETING:START -->
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=90&lines=%E1%BA%B8+k%C3%A1%C3%A0s%C3%A1n;%28Good+afternoon%29" alt="Ẹ káàsán (Good afternoon)"></p>
+<!-- GREETING:END -->
 
-Software engineer who loves finding creative solutions that help people and improve the world.
+<p align="center"><b>I'm Soughtout Olasupo-Ojo</b></p>
+
+I build full-stack apps and AI-powered tools, from a personal-agent app to a WebGL color explorer. I like turning messy problems into simple, useful software.
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=500&height=40&lines=Software+Developer;Aspiring+AI+Engineer;Musician+%26+Film+Photographer" alt="Software Developer, Aspiring AI Engineer, Musician and Film Photographer"></p>
 
 - 🔎 **Open to:** Full-Stack, Backend, Systems Test, and AI Engineering roles
 - 📫 **Reach me:** [sotout02@gmail.com](mailto:sotout02@gmail.com)
@@ -33,6 +38,20 @@ Software engineer who loves finding creative solutions that help people and impr
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/952sonic)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/angelic_yoruba)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sotout02@gmail.com)
+
+## 💬 Ask me about
+
+- Film photography and film cameras
+- Keyboards and keytars
+- Manga and anime
+- Building AI-powered apps
+
+## ⚡ Fun facts
+
+- 🎹 I have perfect pitch
+- 🌍 I've been to 16 different countries
+
+![World map: visited and wishlist countries](assets/world-map.svg)
 
 ## 🎹 Outside of coding
 
