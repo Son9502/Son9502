@@ -2,6 +2,10 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Calibri&color=6E7781&size=28&pause=1500&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=90&lines=%E1%BA%B8+k%C3%A1al%E1%BA%B9%CC%81;%28Good+evening%29" alt="Ẹ káalẹ́ (Good evening)"></p>
 <!-- GREETING:END -->
 
+<table>
+<tr>
+<td valign="top" width="58%">
+
 <p align="center"><b>I'm Soughtout Olasupo-Ojo</b></p>
 
 I build full-stack apps and AI-powered tools, from a personal-agent app to a WebGL color explorer. I like turning messy problems into simple, useful software.
@@ -10,10 +14,6 @@ I build full-stack apps and AI-powered tools, from a personal-agent app to a Web
 
 - 🔎 **Open to:** Full-Stack, Backend, Systems Test, and AI Engineering roles
 - 📫 **Reach me:** [sotout02@gmail.com](mailto:sotout02@gmail.com)
-
-<table>
-<tr>
-<td valign="top" width="58%">
 
 ## 🛠️ Skills
 
@@ -40,14 +40,6 @@ I build full-stack apps and AI-powered tools, from a personal-agent app to a Web
 - 🐹 **Go** – picking up the language for backend and systems work
 - 🤖 **Machine Learning** – working through the Codecademy course
 
-## 🎹 Outside of coding
-
-| | |
-|---|---|
-| 🎹 **Music** | Keyboard / keytar player with perfect pitch |
-| 📷 **Film photography** | Started in March 2026 and still learning. Want photos taken? Hit me up for a photoshoot! |
-| 📚 **Manga & anime** | Avid fan |
-
 </td>
 <td valign="top" width="42%">
 
@@ -68,7 +60,21 @@ I build full-stack apps and AI-powered tools, from a personal-agent app to a Web
 - 🎹 I have perfect pitch
 - 🌍 I've been to 16 different countries
 
+</td>
+</tr>
+</table>
+
+## 🌍 Where I've been
+
 <img src="assets/world-map.svg" alt="World map: visited and wishlist countries" width="100%">
+
+## 🎹 Outside of coding
+
+| | |
+|---|---|
+| 🎹 **Music** | Keyboard / keytar player with perfect pitch |
+| 📷 **Film photography** | Started in March 2026 and still learning. Want photos taken? Hit me up for a photoshoot! |
+| 📚 **Manga & anime** | Avid fan |
 
 ## 🤝 Connect
 
@@ -76,10 +82,6 @@ I build full-stack apps and AI-powered tools, from a personal-agent app to a Web
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/952sonic)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/angelic_yoruba)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sotout02@gmail.com)
-
-</td>
-</tr>
-</table>
 
 <!--
 **Son9502/Son9502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
