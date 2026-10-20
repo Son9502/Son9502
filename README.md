@@ -1,5 +1,5 @@
 <!-- GREETING:START -->
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Calibri&color=6E7781&size=28&pause=1500&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=90&lines=%E1%BA%B8+k%C3%A1%C3%A0s%C3%A1n;%28Good+afternoon%29" alt="Ẹ káàsán (Good afternoon)"></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Calibri&color=6E7781&size=28&pause=1500&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=90&lines=%E1%BA%B8+k%C3%A1al%E1%BA%B9%CC%81;%28Good+evening%29" alt="Ẹ káalẹ́ (Good evening)"></p>
 <!-- GREETING:END -->
 
 <p align="center"><b>I'm Soughtout Olasupo-Ojo</b></p>
