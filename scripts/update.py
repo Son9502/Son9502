@@ -38,7 +38,7 @@ def greeting(now: datetime) -> tuple[str, str]:
 def typing_url(lines: list[str]) -> str:
     query = ";".join(quote_plus(line) for line in lines)
     return (
-        "https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500"
+        "https://readme-typing-svg.demolab.com?font=Calibri&color=6E7781&size=28&pause=1500"
         "&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=90"
         f"&lines={query}"
     )

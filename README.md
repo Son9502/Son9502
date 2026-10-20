@@ -1,12 +1,12 @@
 <!-- GREETING:START -->
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=90&lines=%E1%BA%B8+k%C3%A1%C3%A0s%C3%A1n;%28Good+afternoon%29" alt="Ẹ káàsán (Good afternoon)"></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Calibri&color=6E7781&size=28&pause=1500&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=90&lines=%E1%BA%B8+k%C3%A1%C3%A0s%C3%A1n;%28Good+afternoon%29" alt="Ẹ káàsán (Good afternoon)"></p>
 <!-- GREETING:END -->
 
 <p align="center"><b>I'm Soughtout Olasupo-Ojo</b></p>
 
 I build full-stack apps and AI-powered tools, from a personal-agent app to a WebGL color explorer. I like turning messy problems into simple, useful software.
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=500&height=40&lines=Software+Developer;Aspiring+AI+Engineer;Musician+%26+Film+Photographer" alt="Software Developer, Aspiring AI Engineer, Musician and Film Photographer"></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Calibri&color=6E7781&pause=1500&center=true&vCenter=true&width=500&height=40&lines=Software+Developer;Aspiring+AI+Engineer;Musician+%26+Film+Photographer" alt="Software Developer, Aspiring AI Engineer, Musician and Film Photographer"></p>
 
 - 🔎 **Open to:** Full-Stack, Backend, Systems Test, and AI Engineering roles
 - 📫 **Reach me:** [sotout02@gmail.com](mailto:sotout02@gmail.com)
@@ -29,8 +29,16 @@ I build full-stack apps and AI-powered tools, from a personal-agent app to a Web
 
 ## 🌱 Currently learning
 
-- Go
-- Machine Learning Course on Codecademy
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F37626?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Codecademy](https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)
+
+- 🐹 **Go** – picking up the language for backend and systems work
+- 🤖 **Machine Learning** – working through the Codecademy course
+
+## 🎧 Currently listening to
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=son952&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=544eb1)](https://spotify-github-profile.kittinanx.com/api/view?uid=son952&redirect=true)
 
 ## 🤝 Connect
 
@@ -45,6 +53,7 @@ I build full-stack apps and AI-powered tools, from a personal-agent app to a Web
 - Keyboards and keytars
 - Manga and anime
 - Building AI-powered apps
+- Music 
 
 ## ⚡ Fun facts
 
@@ -55,9 +64,11 @@ I build full-stack apps and AI-powered tools, from a personal-agent app to a Web
 
 ## 🎹 Outside of coding
 
-- Playing music (Keyboard/Keytar Player)
-- Film Photography (Started in March 2026; if you're interested in photoshoots/getting your pictures taken, hit me up; still learning though)
-- Avid Manga/Anime fan
+| | |
+|---|---|
+| 🎹 **Music** | Keyboard / keytar player with perfect pitch |
+| 📷 **Film photography** | Started in March 2026 and still learning. Want photos taken? Hit me up for a photoshoot! |
+| 📚 **Manga & anime** | Avid fan |
 
 <!--
 **Son9502/Son9502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
