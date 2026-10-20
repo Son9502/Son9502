@@ -26,10 +26,10 @@ I build full-stack apps and AI-powered tools, from a personal-agent app to a Web
 
 ## 🚀 Currently working on
 
-- **Wildcard** – Personal-agent app (React Native/Expo, TypeScript, Supabase) with an always-on Anthropic-powered assistant and per-user row-level security.
-- **Film Log** – Offline-first app for film photographers with bulk scan import, GPS location tagging, and achievements.
-- **OPTCG Match Sim** – Java rules engine and practice tool for a trading card game, backed by a text-to-game-logic pipeline and 370 JUnit tests.
-- **ColorVerse** – WebGL color-space explorer (JavaScript, Three.js) for browsing RGB and HSL as 1-D, 2-D, and 3-D shapes.
+- 🃏 **[Wildcard](https://github.com/Son9502/Wildcard)** – Personal-agent app (React Native/Expo, TypeScript, Supabase) with an always-on Anthropic-powered assistant and per-user row-level security.
+- 🎞️ **[Film Log](https://github.com/Son9502/Film-Log)** – Offline-first app for film photographers with bulk scan import, GPS location tagging, and achievements.
+- 🏴‍☠️ **[OPTCG Match Sim](https://github.com/Son9502/optcg)** – Java rules engine and practice tool for a trading card game, backed by a text-to-game-logic pipeline and 370 JUnit tests.
+- 🔵 **[ColorVerse](https://github.com/Son9502/ColorVerse)** – WebGL color-space explorer (JavaScript, Three.js) for browsing RGB and HSL as 1-D, 2-D, and 3-D shapes.
 
 ## 🌱 Currently learning
 
@@ -47,18 +47,17 @@ I build full-stack apps and AI-powered tools, from a personal-agent app to a Web
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=son952&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=544eb1)](https://spotify-github-profile.kittinanx.com/api/view?uid=son952&redirect=true)
 
-## 💬 Ask me about
+## ✨ Beyond the code
 
-- Film photography and film cameras
-- Keyboards and keytars
-- Manga and anime
-- Building AI-powered apps
-- Music
+| | |
+|---|---|
+| 🎹 **Music** | Keyboard/keytar player with perfect pitch |
+| 📷 **Film photography** | Started March 2026 and still learning. Want photos taken? Hit me up! |
+| 📚 **Manga & anime** | Avid fan |
+| 🌍 **Travel** | 16 countries so far (map below) |
+| 🤖 **AI apps** | Happy to chat about building them |
 
-## ⚡ Fun facts
-
-- 🎹 I have perfect pitch
-- 🌍 I've been to 16 different countries
+💬 **Ask me about:** film cameras, keytars, anime, AI apps
 
 </td>
 </tr>
@@ -67,14 +66,6 @@ I build full-stack apps and AI-powered tools, from a personal-agent app to a Web
 ## 🌍 Where I've been
 
 <img src="assets/world-map.svg" alt="World map: visited and wishlist countries" width="100%">
-
-## 🎹 Outside of coding
-
-| | |
-|---|---|
-| 🎹 **Music** | Keyboard / keytar player with perfect pitch |
-| 📷 **Film photography** | Started in March 2026 and still learning. Want photos taken? Hit me up for a photoshoot! |
-| 📚 **Manga & anime** | Avid fan |
 
 ## 🤝 Connect
 
