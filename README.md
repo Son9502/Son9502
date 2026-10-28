@@ -29,7 +29,7 @@ I build full-stack apps and AI-powered tools, from a personal-agent app to a Web
 - 🃏 **[Wildcard](https://github.com/Son9502/Wildcard)** – Personal-agent app (React Native/Expo, TypeScript, Supabase) with an always-on Anthropic-powered assistant and per-user row-level security.
 - 🎞️ **[Film Log](https://github.com/Son9502/Film-Log)** – Offline-first app for film photographers with bulk scan import, GPS location tagging, and achievements.
 - 🏴‍☠️ **[OPTCG Match Sim](https://github.com/Son9502/optcg)** – Java rules engine and practice tool for a trading card game, backed by a text-to-game-logic pipeline and 370 JUnit tests.
-- 🔵 **[ColorVerse](https://github.com/Son9502/ColorVerse)** – WebGL color-space explorer (JavaScript, Three.js) for browsing RGB and HSL as 1-D, 2-D, and 3-D shapes.
+- 🔵 **[ColorVerse](https://github.com/Son9502/ColorVerse)** – WebGL color-space explorer (JavaScript, Three.js) for browsing RGB and HSL as 3-D shapes.
 
 ## 🌱 Currently learning
 
