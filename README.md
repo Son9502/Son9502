@@ -21,15 +21,15 @@ I build full-stack apps and AI-powered tools, from a personal-agent app to a Web
 |------|-------|
 | **Languages** | Python, Java, C, JavaScript, TypeScript, HTML, CSS, Go *(learning)* |
 | **Frameworks & Libraries** | React, Expo, Asyncio, JUnit |
-| **Data & AI** | Supabase (PostgreSQL), Anthropic API |
+| **Data & AI** | Supabase (PostgreSQL), Firebase (Firestore), Anthropic API |
 | **DevOps & Tools** | Docker, Git, Kubernetes, Postman, Maven, Bugzilla |
 
 ## 🚀 Currently working on
 
 - 🃏 **[Wildcard](https://github.com/Son9502/Wildcard)** – Personal-agent app (React Native/Expo, TypeScript, Supabase) with an always-on Anthropic-powered assistant and per-user row-level security.
-- 🎞️ **[Film Log](https://github.com/Son9502/Film-Log)** – Offline-first app for film photographers with bulk scan import, GPS location tagging, and achievements.
-- 🏴‍☠️ **[OPTCG Match Sim](https://github.com/Son9502/optcg)** – Java rules engine and practice tool for a trading card game, backed by a text-to-game-logic pipeline and 370 JUnit tests.
-- 🔵 **[ColorVerse](https://github.com/Son9502/ColorVerse)** – WebGL color-space explorer (JavaScript, Three.js) for browsing RGB and HSL as 3-D shapes.
+- 🎞️ **[Film Log](https://github.com/Son9502/Film-Log)** – Offline-first app for film photographers with cross-device cloud sync, bulk scan import, GPS location journals, and 28 achievements.
+- 🏴‍☠️ **[OPTCG Match Sim](https://github.com/Son9502/optcg)** – Java rules engine and practice tool for a trading card game, backed by a text-to-game-logic pipeline that makes 87.5% of 2,300+ cards playable, and 370 JUnit tests.
+- 🔵 **[ColorVerse](https://son9502.github.io/ColorVerse/)** ([code](https://github.com/Son9502/ColorVerse)) – WebGL color-space explorer (JavaScript, Three.js, Firebase) for browsing RGB and HSL as 3-D shapes, plus Color Golf, a color-matching game with daily holes and server-verified leaderboards.
 
 ## 🌱 Currently learning
 
