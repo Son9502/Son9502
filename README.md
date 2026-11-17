@@ -1,5 +1,5 @@
 <!-- GREETING:START -->
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Calibri&color=6E7781&size=28&pause=1500&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=90&lines=%E1%BA%B8+k%C3%BA+al%E1%BA%B9%CC%81;%28Good+night%29" alt="Ẹ kú alẹ́ (Good night)"></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Calibri&color=6E7781&size=28&pause=1500&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=90&lines=%E1%BA%B8+k%C3%A1%C3%A0%C3%A1r%E1%BB%8D%CC%80;%28Good+morning%29" alt="Ẹ káàárọ̀ (Good morning)"></p>
 <!-- GREETING:END -->
 
 <table>
